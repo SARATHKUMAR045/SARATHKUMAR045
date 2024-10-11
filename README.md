@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SARATHKUMAR
 - 👀 I’m interested in ...Game Development
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...Java
 - 📫 How to reach me ...sarathkumar.t2003@gmail.com
 
 <!---
